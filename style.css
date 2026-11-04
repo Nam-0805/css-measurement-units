@@ -1,1 +1,27 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .grey-box {
+    background-color: lightgrey;
+    height: 100vh; 
+    padding: 50px;
+  }
+  
+  .orange-box {
+    background-color: orange;
+    height: 25%;
+  }
+  
+  .yellow-box {
+    background-color: khaki;
+    height: 25%; 
+  }
+  
+ 
+  .blue-box {
+    background-color: cornflowerblue;
+    height: 50%; 
+}
